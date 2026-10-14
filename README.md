@@ -210,6 +210,10 @@ Bug reports are welcome, especially new response shapes or status codes the
 Terminal produces. Please include the endpoint, parameters and a redacted
 response body.
 
+## Author
+
+Built by [Kaleb Hoffer](https://github.com/kalebhoffer) ([LinkedIn](https://www.linkedin.com/in/kalebhoffer)).
+
 ## License
 
 [MIT](LICENSE)
